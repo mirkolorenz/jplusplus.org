@@ -13,4 +13,4 @@ Warum nicht auch anderswo?
 
 
 
-[Photo Credit](http://www.flickr.com/photos/laurenmanning/8049021365/ "Sketch and photo by Lauren Manning")
+[Photo Credit: "Sketch and photo by Lauren Manning"](http://www.flickr.com/photos/laurenmanning/8049021365/ )
