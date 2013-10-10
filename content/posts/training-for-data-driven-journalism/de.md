@@ -2,13 +2,13 @@ Müssen Datenjournalisten selbst programmieren können? Wo finden sich Daten, wi
 
 Innerhalb der letzten drei Jahre haben wir international Erfahrung beim Training für Datenjournalismus aufgebaut. Ziel der Workshops und Trainings ist es, eine fundierte Übersicht über die verschiedenen Arbeitsstufen des Datenjournalismus zu bieten: 
 
-<ol>
+<ul>
 <li>+ Daten finden</li>
 <li>+ Daten prüfen, umwandeln, filtern, kombinieren</li>
 <li>+ Daten visualisieren, korrekte Grundformen, kreative neue Möglichkeiten</li>
-<li>Daten-Specials erstellen</li>
-<li>Daten-Apps entwickeln</li>
-</ol>
+<li>+ Daten-Specials erstellen</li>
+<li>+ Daten-Apps entwickeln</li>
+</ul>
 
 Die Dauer der Trainings reicht von Vorträgen über Tages-Trainings bis hin zu längeren Aufbauprogrammen.
 
