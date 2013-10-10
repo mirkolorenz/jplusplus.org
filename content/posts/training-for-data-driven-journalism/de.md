@@ -16,6 +16,6 @@ Uns ist es wichtig, dass die Inhalte für die Teilnehmer didaktisch nachvollzieh
 
 Die Fähigkeiten, die wir vermitteln, sind im aktuellen Markt zunehmend gefragt. Das Feld ist so groß, dass sich viele Möglichkeiten zur Spezialisierung ergeben. Da sich im "data-driven journalism" Journalismus, Design und Programmierung neu verbinden, ist bisher noch gar nicht ausgelotet, wie sich künftige Teams organisieren werden. Es gibt viele Einstiegsmöglichkeiten in ein zukunftsgerichtetes Arbeitsfeld. 
 
-Und mit Blick auf die Zukunft kann Kompetenz im Umgang mit Daten auch zu neuen Modellen führen, die auf "Vertrauen statt Aufmerksamkeit" (engl.: ["From Attention to Trust"] (http://www.niemanlab.org/2011/03/voices-news-organizations-must-become-hubs-of-trusted-data-in-an-market-seeking-and-valuing-trust/) setzen. 
+Und mit Blick auf die Zukunft kann Kompetenz im Umgang mit Daten auch zu neuen Modellen führen, die auf "Vertrauen statt Aufmerksamkeit" (engl.: ["From Attention to Trust"] (http://www.niemanlab.org/2011/03/voices-news-organizations-must-become-hubs-of-trusted-data-in-an-market-seeking-and-valuing-trust/)) setzen. 
 
 Wenn Sie Interesse an einem Datenjournalismus-Training haben, nehmen Sie kurz Kontakt auf. 
